@@ -12,9 +12,6 @@
 - [FlappyBirdAI](link) – ML-Agent trained agent navigating pipes
 - [QuadRemesher](link) – Blender procedural mesh tool prototype
 
-<p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=adelnaim11&color=grey">
-</p>
 
 ## 🛠️ Tech Stack
 
@@ -53,3 +50,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=adelnaim11&color=grey">
+</p>
