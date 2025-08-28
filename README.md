@@ -1,10 +1,9 @@
 # Hey, I'm Adel 👋
-Unity & C# Developer | Game Dev Enthusiast
+Full-Stack Developer & 3D/VFX Specialist | Client-Focused at ARE-Animations  
 
-## Skills
-- **Languages**: C#, Python
-- **Tools**: Unity, Blender, ML-Agents
-- **Areas**: Game AI, Procedural Generation, Physics
+I create everything from **interactive apps and web solutions** to **high-end 3D visualizations and VFX**.  
+Passionate about clean code, optimized systems, and stunning visuals.
+
 
 ## Projects
 - [AdvancedCarController](link) – Custom car physics system with drivetrain options
