@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Boss 👋
+Unity & C# Developer | Game Dev Enthusiast
 
-<!--
-**adelnaim11/adelnaim11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- **Languages**: C#, Python
+- **Tools**: Unity, Blender, ML-Agents
+- **Areas**: Game AI, Procedural Generation, Physics
 
-Here are some ideas to get you started:
+## Projects
+- [AdvancedCarController](link) – Custom car physics system with drivetrain options
+- [FlappyBirdAI](link) – ML-Agent trained agent navigating pipes
+- [QuadRemesher](link) – Blender procedural mesh tool prototype
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Boss's GitHub stats](link-to-stats-card)
