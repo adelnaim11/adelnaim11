@@ -13,7 +13,7 @@
 - [QuadRemesher](link) – Blender procedural mesh tool prototype
 
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=adelnaim11&color=grey">
 </p>
 
 ## 🛠️ Tech Stack
