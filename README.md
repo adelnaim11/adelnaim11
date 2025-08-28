@@ -1,8 +1,8 @@
 # Hey, I'm Adel 👋
-Full-Stack Developer & 3D/VFX Specialist | Client-Focused at ARE-Animations  
+  Full-Stack Developer & 3D/VFX Specialist | Currently working at ARE-Animations  
 
-I create everything from **interactive apps and web solutions** to **high-end 3D visualizations and VFX**.  
-Passionate about clean code, optimized systems, and stunning visuals.
+  I create everything from **interactive apps and web solutions** to **high-end 3D visualizations and VFX**.  
+  Passionate about clean code, optimized systems, and stunning visuals.
 
 
 ## Top 3 Projects
