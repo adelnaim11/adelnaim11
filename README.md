@@ -1,4 +1,7 @@
 # Hey, I'm Adel 👋
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;3D/VFX+Specialist!;Currently+working+at+ARE-Animations!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
   Full-Stack Developer & 3D/VFX Specialist | Currently working at ARE-Animations  
 
   I create everything from **interactive apps and web solutions** to **high-end 3D visualizations and VFX**.  
