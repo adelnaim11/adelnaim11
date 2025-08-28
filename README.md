@@ -32,3 +32,6 @@ Unity & C# Developer | Game Dev Enthusiast
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" alt="Blender" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" width="30" height="30"/>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
