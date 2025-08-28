@@ -5,13 +5,11 @@ I create everything from **interactive apps and web solutions** to **high-end 3D
 Passionate about clean code, optimized systems, and stunning visuals.
 
 
-## Projects
+## Top 3 Projects
 - [AdvancedCarController](link) – Custom car physics system with drivetrain options
 - [FlappyBirdAI](link) – ML-Agent trained agent navigating pipes
 - [QuadRemesher](link) – Blender procedural mesh tool prototype
 
-## GitHub Stats
-![Boss's GitHub stats](link-to-stats-card)
 
 ## 🛠️ Tech Stack
 
