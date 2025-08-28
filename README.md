@@ -1,4 +1,4 @@
-# Hey, I'm Boss 👋
+# Hey, I'm Adel 👋
 Unity & C# Developer | Game Dev Enthusiast
 
 ## Skills
