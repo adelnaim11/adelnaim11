@@ -1,19 +1,32 @@
-# Hey, I'm Adel 👋
+# <p align="center">Hey, I'm Adel 👋</p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;3D/VFX+Specialist!;CEO+OF+ARE-Animations!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
-
-  I create everything from **interactive apps and web solutions** to **high-end 3D visualizations and VFX**.  
+<p align="center">
+  I create everything from interactive apps and web solutions to high-end 3D visualizations and VFX.  
   Passionate about clean code, optimized systems, and stunning visuals.
+</p>
+<br>
 
+## <p align="center">🚀 Top 3 Projects</p>
+<br>
+<p align="center">
+  <a href="link"><b>AdvancedCarController</b></a><br>
+  🏎️ Custom car physics system with drivetrain options
+</p>
 
-## Top 3 Projects
-- [AdvancedCarController](link) – Custom car physics system with drivetrain options
-- [FlappyBirdAI](link) – ML-Agent trained agent navigating pipes
-- [QuadRemesher](link) – Blender procedural mesh tool prototype
+<p align="center">
+  <a href="link"><b>FlappyBirdAI</b></a><br>
+  🐦 ML-Agent trained agent navigating pipes
+</p>
 
+<p align="center">
+  <a href="link"><b>QuadRemesher</b></a><br>
+  🌀 Blender procedural mesh tool prototype
+</p>
+<br>
 
-## 🛠️ Tech Stack
+## <p align="center">🛠️ Tech Stack</p>
 
 <!-- Programming Languages -->
 <p align="center">
