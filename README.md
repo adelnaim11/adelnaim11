@@ -8,24 +8,6 @@
 </p>
 <br>
 
-## <p align="center">🚀 Top 3 Projects</p>
-<br>
-<p align="center">
-  <a href="link"><b>AdvancedCarController</b></a><br>
-  🏎️ Custom car physics system with drivetrain options
-</p>
-
-<p align="center">
-  <a href="link"><b>FlappyBirdAI</b></a><br>
-  🐦 ML-Agent trained agent navigating pipes
-</p>
-
-<p align="center">
-  <a href="link"><b>QuadRemesher</b></a><br>
-  🌀 Blender procedural mesh tool prototype
-</p>
-<br>
-
 ## <p align="center">🛠️ Tech Stack</p>
 
 <!-- Programming Languages -->
