@@ -1,67 +1,62 @@
-# <p align="center">Hey, I'm Adel 👋</p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;3D/VFX+Specialist!;CEO+OF+ARE-Animations!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
-<p align="center">
-  I create everything from interactive apps and web solutions to high-end 3D visualizations and VFX.  
-  Passionate about clean code, optimized systems, and stunning visuals.
-</p>
-<br>
-
-## <p align="center">🛠️ Tech Stack</p>
-
-<!-- Programming Languages -->
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-
-<!-- Frontend / Web -->
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-<!-- Android / Mobile -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-<!-- AI / Machine Learning -->
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity_ML-Agents-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
-
-<!-- Tools & 3D -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-
+<h1 align="center">Adel Naim</h1>
 
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=adelnaim11&color=grey">
+  <a href="https://adelnaim11.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=D62F79&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;Mobile+%26+Desktop+App+Engineer;3D+%2F+VFX+Artist;Founder+of+ARE-Animations" alt="Full-Stack Developer · Mobile & Desktop App Engineer · 3D / VFX Artist · Founder of ARE-Animations" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://adelnaim11.github.io"><img src="https://img.shields.io/badge/Portfolio-adelnaim11.github.io-D62F79?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://adelnaim11.github.io/cv.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-24292e?style=flat-square&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
+  <img src="https://komarev.com/ghpvc/?username=adelnaim11&style=flat-square&color=555555&label=Profile+views" alt="Profile views" />
+</p>
 
+---
 
-<!-- Created by adel_naim -->
+### About me
+
+I'm a full-stack developer who builds products end to end, from the database and API to the mobile, web and desktop apps people actually use. Alongside software, I run **ARE-Animations**, where I work on 3D visualization and VFX.
+
+- 🛠️ **What I build:** cross-platform apps with Flutter and React, REST APIs with Node.js and Express, and .NET desktop software backed by MySQL
+- 📱 **Android, top to bottom:** from Kotlin and Flutter apps with over-the-air updates down to custom kernels and recovery builds
+- 🎬 **3D and real-time:** Blender and Unity for visualization, VFX and interactive experiences
+- 🎯 **How I work:** clean, maintainable code, fast systems and polished interfaces
+
+---
+
+### Featured projects
+
+| Project | What it is | Built with |
+| :-- | :-- | :-- |
+| [**Budgify**](https://github.com/adelnaim11/BudgifyNew) | Personal budgeting web app with secure, token-based accounts | React · Node.js · Express · MySQL · JWT |
+| [**MovieBox**](https://github.com/adelnaim11/MovieBox) | Cross-platform movie app with its own backend and database | Flutter · Dart · Node.js · MySQL |
+| [**Ordora**](https://github.com/adelnaim11/Ordora) | Windows desktop application backed by a MySQL database | C# · .NET · MySQL |
+| [**Flutter Projects**](https://github.com/adelnaim11/Flutter-Projects) | Collection of Flutter apps, including a full To-Do application | Flutter · Dart |
+| [**NetHunter Kernel (SM-G900F)**](https://github.com/adelnaim11/SM-G900F-Nethunter-Kernel) · [**Oppo A93 TWRP**](https://github.com/adelnaim11/Oppo-A93-TWRP) | Custom Android kernel and recovery builds | C · Linux · Android |
+
+---
+
+### Tech stack
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,dart,py,php,html,css,bash,mysql&perline=11" alt="C++, C#, Java, Kotlin, Dart, Python, PHP, HTML, CSS, Bash, SQL" />
+
+**Web and backend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,firebase&perline=11" alt="React, Next.js, Node.js, Express, Firebase" />
+
+**Mobile and desktop**<br>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,dotnet&perline=11" alt="Flutter, Android, .NET" />
+
+**AI / ML**<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=11" alt="TensorFlow, PyTorch" /> &nbsp;+ Unity ML-Agents
+
+**3D, tools and DevOps**<br>
+<img src="https://skillicons.dev/icons?i=blender,unity,git,docker,linux&perline=11" alt="Blender, Unity, Git, Docker, Linux" />
+
+---
+
+<p align="center">
+  <b>Open to freelance work and collaborations.</b><br>
+  Visit my <a href="https://adelnaim11.github.io">portfolio</a> to see more of my work or get in touch.
+</p>
